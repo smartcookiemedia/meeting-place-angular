@@ -1,2 +1,9 @@
-# meeting-place-angular
-An angular project where users can create meetings, add users to meetings and have users check in to their meeting
+An angular project I developed to be able to track users registering for meetings
+
+## Instructions
+1. Make sure you have [node.js](http://nodejs.org/) and [git](http://git-scm.com/) installed on your machine.
+3. CD to the folder `cd attendance`
+4. Run `> npm-install` to install the project dependencies
+5. Install gulp.js via the Mac terminal or Gitbash on a PC `> npm install -g gulp`
+5. Run the Gulp command `> gulp`
+6. Fire up your browser at `http://localhost:8080`
