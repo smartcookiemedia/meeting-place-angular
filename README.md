@@ -1,4 +1,4 @@
-An angular project I developed to be able to track users registering for meetings
+An angular demo to be able to track users registering for meetings
 
 View demo here:
 http://smartcookiemedia.github.io/meeting-place-angular/builds/development/index.html
