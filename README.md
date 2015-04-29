@@ -1,5 +1,8 @@
 An angular project I developed to be able to track users registering for meetings
 
+View demo here:
+http://smartcookiemedia.github.io/meeting-place-angular/builds/development/index.html
+
 ## Instructions
 1. Make sure you have [node.js](http://nodejs.org/) and [git](http://git-scm.com/) installed on your machine.
 3. CD to the folder `cd attendance`
